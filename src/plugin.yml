@@ -1,0 +1,10 @@
+author: MegaCretin
+version: 1.0
+name: HighSky-Quest
+api-version: 1.13
+main: fr.highsky.quest.Main
+depend:
+  - Citizens
+commands:
+  questsTest:
+    aliases: quetes
